@@ -27,12 +27,12 @@
     mixinextras-range = "[0.4.1,)"
 
 # Plugins
-    plugin-moddevgradle = "2.0.123"
+    plugin-moddevgradle = "2.0.141"
     plugin-minotaur = "2.8.10"
     plugin-curseforge-gradle = "1.1.28"
     plugin-idea-ext = "1.3"
     plugin-mixin = "0.7.+"
-    plugin-loom = "1.14-SNAPSHOT"
+    plugin-loom = "1.16-SNAPSHOT"
 
 [libraries]
 # Mixin
